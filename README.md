@@ -17,5 +17,5 @@ SQL concepts covered:
 ✔ Window Functions
 
 
-## Dashboard Preview
+# Preview
 ![Console Preview](Advanced-SQL/SQLPreview.png)
