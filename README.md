@@ -18,4 +18,4 @@ SQL concepts covered:
 
 
 # Preview
-![Console Preview](SQLPreview.png)
+![Console Preview](Advanced-SQL/SQLPreview.png)
