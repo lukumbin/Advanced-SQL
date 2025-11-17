@@ -18,4 +18,4 @@ SQL concepts covered:
 
 
 # Preview
-![Console Preview](SQLPreview.png)
+<img width="1909" height="1031" alt="image" src="https://github.com/user-attachments/assets/6db63062-a2b3-4f03-b886-50c602f3c7af" />
